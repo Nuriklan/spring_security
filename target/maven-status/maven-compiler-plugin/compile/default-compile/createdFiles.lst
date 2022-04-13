@@ -1,0 +1,5 @@
+com/nurlan/spring/security/configuration/MyWebInitializer.class
+com/nurlan/spring/security/configuration/MySecurityInitializer.class
+com/nurlan/spring/security/controller/MyController.class
+com/nurlan/spring/security/configuration/MyConfig.class
+com/nurlan/spring/security/configuration/MySecurityConfig.class
